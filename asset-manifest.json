@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4a67624.css",
+    "main.js": "/static/js/main.ff21496b.js",
+    "static/js/453.32552f3a.chunk.js": "/static/js/453.32552f3a.chunk.js",
+    "static/media/About-us.jpg": "/static/media/About-us.6ccc91294444c859f88f.jpg",
+    "static/media/_vt1.jpg": "/static/media/0d791d5436fc5b9371ee57daf742b4b5_vt1.f5ef1328d10bce959800.jpg",
+    "static/media/residential1.jpg": "/static/media/residential1.483128baf77439e68580.jpg",
+    "static/media/residential3.jpg": "/static/media/residential3.483128baf77439e68580.jpg",
+    "static/media/residential2 - Copy.jpg": "/static/media/residential2 - Copy.5d1b4e8d78776bcc7be5.jpg",
+    "static/media/residential2.jpg": "/static/media/residential2.5d1b4e8d78776bcc7be5.jpg",
+    "static/media/_55.jpg": "/static/media/9a052d80cb7c9d3dd1fda5140ec6f3e8_55.45d2e243424180571516.jpg",
+    "static/media/Home2.jpg": "/static/media/Home2.d070308d694cdc5be658.jpg",
+    "static/media/Home3.jpg": "/static/media/Home3.7952826208b5bb65575e.jpg",
+    "static/media/Home4.jpg": "/static/media/Home4.367cbc789a11a4ddd6e4.jpg",
+    "static/media/_q1.jpg": "/static/media/5184b7101acf3dbcd85a5161212fe81c_q1.7cf7cb2246f566bffb41.jpg",
+    "static/media/people1.jpg": "/static/media/people1.14c3413444dd9287b4b2.jpg",
+    "static/media/people2.jpg": "/static/media/people2.8a68acedff02266ee975.jpg",
+    "static/media/people3.jpg": "/static/media/people3.f86a05128b8ef841ba61.jpg",
+    "static/media/people4.jpg": "/static/media/people4.17cb4bdd727bc1bdb24a.jpg",
+    "static/media/Ohyo.jpg": "/static/media/Ohyo.eb9a0db15bc3aa4fceee.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.7f4c7a4f2d8d8e54c7be0497679c2263.svg",
+    "index.html": "/index.html",
+    "static/media/square-facebook.svg": "/static/media/square-facebook.4c5ba51279c23e5b6579702108175334.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.86f862516a93430afa9b4cd2d078ee8e.svg",
+    "main.f4a67624.css.map": "/static/css/main.f4a67624.css.map",
+    "main.ff21496b.js.map": "/static/js/main.ff21496b.js.map",
+    "453.32552f3a.chunk.js.map": "/static/js/453.32552f3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a67624.css",
+    "static/js/main.ff21496b.js"
+  ]
+}
